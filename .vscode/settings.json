@@ -1,0 +1,5 @@
+{
+    "yaml.format.proseWrap": "preserve",
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16
+}
